@@ -1,0 +1,20 @@
+"Bulk
+Wine Gallons by State",Special Natural Wines/OtherProduction,"Special Natural Wines/OtherTaxable
+Withdrawals","Special Natural Wines/OtherStocks
+End of Month",Effervescent Wines/Production,"Effervescent Wines/Taxable Withdrawals/Artificially
+Carbonated Wines","Effervescent Wines/Taxable Withdrawals/Naturally
+Carbonated Wines",Effervescent Wines/Stocks End Of Month
+CALIFORNIA,"18,901,902","18,684,536",,"21,750,366",0,"1,313",
+MICHIGAN,"41,394","41,100",,"73,388",0,0,
+MISSOURI,"18,719","2,777",,"15,539",0,0,
+NEW JERSEY,"2,545","2,675",,"23,771",0,0,
+NEW MEXICO,"37,932",0,,"312,886",0,0,
+NEW YORK,"316,966","226,061",,"1,456,751",0,0,
+NORTH CAROLINA,"7,290",18,,"3,450",0,0,
+OHIO,"5,261","5,411",,"15,408",69,0,
+OREGON,"8,084",373,,"5,667",0,0,
+PENNSYLVANIA,"2,827","1,257",,"4,873",0,145,
+WASHINGTON,"7,151","4,932",,"602,249",0,0,
+WISCONSIN,0,0,,663,0,0,
+Others,"24,460","22,362",,"66,573",0,76,
+Total,"19,374,531","18,991,502",,"24,331,584",69,"1,534",
