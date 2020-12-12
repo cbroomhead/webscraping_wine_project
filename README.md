@@ -1,35 +1,23 @@
-# Wine Physiochemical Properties Analysis - Red & White 
+# wine.com webscraping project 
 
 ## Included
 
 
 ## Run
+To view the results of the analsyis, open this '' in a browser. 
+If you wish to run the actual webscraping tool, collecting the data might take upwards of two hours. 
 
 
 ## Introduction
+The project was to learn how to use a webscraping tool and analyse the dataset. The webiste scraped is wine.com's 'Best Rated Wines Online 94 Points &amp; Above| Wine.com'.
+The dataset contains +23,822 rows and wine attributes such as: product name, retail price, varietal, origin, average rating, and count of ratings. 
 
 
-## Project details
+## Project Tools
+Tools used in the gathering portion of project: Python, pandas, Beautiful Soup 4, requests, and os. 
+Tools used in the analysing portion of project: Python, pandas, statsmodels, and matplotlib. 
+Tools used in the visualization portion of project: Python, pandas, seaborn, and nbconvert. 
 
-
-## Describing Wine
-Sweetness:
-- relevant to both reds and whites
-- affects 'fruitiness', the sweeter the wine the less fruity is becomes
-- description keywords 'dry' 'off-dry' 'sweet'
-
-Acidity:
-- more relevant for whites than reds
-- affects 'firmness' 'salivation' 'crispness', higher acidity will positively affect those attributes
-- description keywords 'crisp' 'soft' 'flabby'
-
-Tannin Levels:
-- more relevant to reds than whites
-- affect 'bitterness' 'texture' 'richness', higher tannins will positevely affect those attributes
-- description keywords are 'astringent' 'firm' 'soft'
-
-Body: 
-- relevant to both resd and whites
-- affects wine's 'alcohol' impression, 
 
 ## Citations
+wine.com
