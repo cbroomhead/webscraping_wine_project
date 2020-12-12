@@ -11,6 +11,7 @@ If you wish to run the actual webscraping tool, collecting the data might take u
 ## Introduction
 The project was to learn how to use a webscraping tool and analyse the dataset. The webiste scraped is wine.com's 'Best Rated Wines Online 94 Points &amp; Above| Wine.com'.
 The dataset contains +23,822 rows and wine attributes such as: product name, retail price, varietal, origin, average rating, and count of ratings. 
+After cleaning the dataset I ended up with 22,579 entries. 
 
 
 ## Project Tools
