@@ -20,5 +20,12 @@ Tools used in the analysing portion of project: Python, pandas, statsmodels, and
 Tools used in the visualization portion of project: Python, pandas, seaborn, and nbconvert. 
 
 
+## Process
+
+There were times where I had to make some decisions of what to keep and what not to keep. 
+
+### Oldest Wine
+1) Filtering out for the year. The product info in the web pages did not contain a seperate field for the vintage year. Instead, the year was part of the product_name so it was pretty painful to extract the date string out the product name. After several attempts I ended up with an approach that minimized the amount of string that I had to drop due to improper dates being extracted. The oldest wine listed on the web page filter was 1982 so I chose that date as my cutofff. 
+
 ## Citations
 wine.com
