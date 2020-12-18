@@ -23,31 +23,33 @@ Tools used in the visualization portion of project: Python, pandas, seaborn, and
 ## Project Questions
 
 Basic / Assess
-Top high rated wines?
-Which varietals tend to get the highest ratings? Conversly, which varietals have low ratings?
-Which appelation tend to get he highest ratings? Conversly, which appellation have low ratings?
-Where are the most expensive wines from? Conversely the cheapest wines?
+- Top high rated wines?
+- Which varietals tend to get the highest ratings? Conversly, which varietals have low ratings?
+- Which appelation tend to get he highest ratings? Conversly, which appellation have low ratings?
+- Where are the most expensive wines from? Conversely the cheapest wines?
+- Which are some of the most popular varieties and from where?
 
  
 Realtionships / Analyze
-Do higher rating counts mean higher average rating?
-Does price correlate with high ratings?
-Does price correlate with regions or appelation?
-Does year correlate with high ratings?
+- Do higher rating counts mean higher average rating?
+- Does price correlate with high ratings?
+- Does year correlate with high ratings?
 Does year correlate with regions or appelation?
+Does price correlate with regions or appelation?
 
 Feature Engineering?
 red, white, or sparkling
 
-Report:
-Which wines are the best bang for the buck?
+Report Wirite up:
+Which wines are the best bang for the buck according to the ratings?
+What are wines I should generally stay away from according to the ratings?
 When considering a cheaper wine, which region and appelation should I get?
 When considering a cheaper wine, which varietals should I consider?
-Is there a bias in the reviews for American wines since the reviewers are in the US?
+-> There might be a bias in the data since there were a lot of California wines and most people who rated the wines were from within the US. 
 
 Deep dive into California wines:
 Which CA wines have the highest ratings?
-How does year affect the ratings of the wine?
+How does year affect the ratings of the wine? Are there years to stay away from?
 How does price affect the ratings of the wine?
 
 
