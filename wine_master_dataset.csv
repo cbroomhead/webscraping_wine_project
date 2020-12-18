@@ -2777,6 +2777,7 @@
 2992,Bodega DiamAndes Grande Reserve Chardonnay,34,Chardonnay,0.0,0.0,['Rioja'], Spain,2016
 2993,Bodegas Muga Seleccion Especial Reserva,45,Tempranillo,0.0,0.0,[' Bordeaux'], France,2016
 2995,Kumeu River Estate Chardonnay,34,Chardonnay,0.0,0.0,['Pfalz'], Germany,2019
+2997,Alvear Pedro Ximenez ,30,Sherry,4.5,192.0,[' Veneto'], Italy,1927
 2998,Pieropan Soave Classico Calvarino,40,Garganega,4.4,10.0,[' Columbia Valley'], Washington,2016
 2999,K Vintners Ovide,57,Other Red Blends,0.0,0.0,['Tuscany'], Italy,2016
 3000,Monte Antico Supremus,29,Tuscan Blends,3.9,16.0,[' Bordeaux'], France,2015
@@ -4896,6 +4897,7 @@
 5295,Sine Qua Non Hollerin' M Shea Vineyard Pinot Noir,349,Pinot Noir,0.0,0.0,['Douro'], Portugal,2002
 5296,Quinta do Crasto Douro Touriga Nacional,89,Touriga Nacional,0.0,0.0,[' Tuscany'], Italy,2015
 5297,Le Ragnaie Brunello di Montalcino,129,Sangiovese,0.0,0.0,[' South Australia'], Australia,2010
+5298,Seppeltsfield Para Port Vintage Tawny ,1800,Other Dessert,0.0,0.0,[' Tuscany'], Italy,1908
 5299,Valdicava Brunello di Montalcino,119,Sangiovese,0.0,0.0,[' Piedmont'], Italy,1997
 5300,Michele Chiarlo Nizza Cipressi Barbera,26,Barbera,5.0,5.0,[' Sonoma County'], California,2015
 5301,Kistler Vineyards Cuvee Catherine Pinot Noir,159,Pinot Noir,0.0,0.0,[' Bordeaux'], France,2009
@@ -5371,6 +5373,7 @@
 5820,DuMOL Isobel Chardonnay,79,Chardonnay,0.0,0.0,['Carneros'], California,2014
 5822,Mollydooker Blue Eyed Boy Shiraz,65,Syrah/Shiraz,0.0,0.0,[' South Australia'], Australia,2006
 5823,Penfolds RWT Shiraz,129,Syrah/Shiraz,0.0,0.0,['Jerez'], Spain,2001
+5824,Osborne VORS Venerable 1902 VORS Pedro Ximenez Sh,143,Sherry,0.0,0.0,[' Bordeaux'], France,1902
 5825,Chateau Haut-Bages Liberal,43,Bordeaux Red Blends,4.2,8.0,['Champagne'], France,2014
 5826,Dom Perignon Rose,429,Rosé Sparkling Wine,0.0,0.0,[' Rhone'], France,2002
 5827,Guigal Crozes Hermitage,23,Syrah/Shiraz,3.0,13.0,[' Rhone'], France,2003
@@ -10032,6 +10035,7 @@
 10831,William Fevre Chablis Montee de Tonnerre Premier Cru,69,Chardonnay,0.0,0.0,[' Rhone'], France,2016
 10832,Fanti Brunello di Montalcino,49,Sangiovese,4.2,22.0,[' Sonoma County'], California,2012
 10833,Domaine de la Solitude Chateauneuf-du-Pape Cornelia Constanza ,169,Grenache,0.0,0.0,[' Trentino-Alto Adige'], Italy,2016
+10834,Cobb Wines Coastlands Vineyard 1906 Block Pommard Pinot Noir,80,Pinot Noir,0.0,0.0,[' Napa Valley'], California,1906
 10835,Terlan Nova Domus,64,Other White Blends,0.0,0.0,[' Bordeaux'], France,2015
 10836,O'Shaughnessy Howell Mountain Cabernet Sauvignon,118,Cabernet Sauvignon,0.0,0.0,['Sicily'], Italy,2016
 10837,Les Hauts de Smith Blanc,28,Sauvignon Blanc,0.0,0.0,[' Central Coast'], California,2013
@@ -14112,6 +14116,7 @@
 15295,Le Vieux Donjon Chateauneuf-du-Pape,73,Rhone Red Blends,0.0,0.0,['Nahe'], Germany,2009
 15296,Dal Forno Romano Valpolicella Superiore,130,Other Red Blends,0.0,0.0,[' South Australia'], Australia,2007
 15297,Damilano Barolo Cannubi,89,Nebbiolo,0.0,0.0,[' Rhone'], France,2008
+15298,Kruger-Rumpf Abtei 1937 Riesling Erstes Gewachs Trocken,41,Riesling,0.0,0.0,[' Sonoma County'], California,1937
 15300,Domaine de la Janasse Chateauneuf-du-Pape Cuvee Chaupin ,119,Rhone Red Blends,0.0,0.0,['Mendocino'], California,2009
 15301,Ravenswood Pickberry Vineyards,50,Bordeaux Red Blends,0.0,0.0,[' Tuscany'], Italy,2008
 15302,William Fevre Chablis Montee de Tonnerre Premier Cru,65,Chardonnay,0.0,0.0,['Napa Valley'], California,2012
@@ -15434,6 +15439,7 @@
 16743,Chateau Fuisse Pouilly-Fuisse Tete de Cru,39,Chardonnay,4.4,18.0,[' Rhone'], France,2014
 16745,Domaine Saint Prefert Chateauneuf-du-Pape Reserve Auguste Favier,79,Rhone Red Blends,0.0,0.0,[' South Australia'], Australia,2015
 16746,Domaine de Longue Toque Gigondas Lieu-Dit Les Trois Yeux,99,Rhone Red Blends,0.0,0.0,[' Napa Valley'], California,2017
+16747,Blandy's Bual Madeira,929,Madeira,0.0,0.0,['Sonoma County'], California,1920
 16748,John Duval Plexus Red,40,Rhone Red Blends,4.1,17.0,['Nahe'], Germany,2006
 16749,Dominus Estate ,999,Bordeaux Red Blends,0.0,0.0,[' Piedmont'], Italy,2012
 16750,Silver Oak Alexander Valley Cabernet Sauvignon ,329,Cabernet Sauvignon,0.0,0.0,[' South Australia'], Australia,2008
