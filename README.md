@@ -23,16 +23,18 @@ Tools used in the visualization portion of project: Python, pandas, seaborn, and
 ## Project Questions
 
 Basic / Assess
-Top 5 regions producing high rated wines?
+Top high rated wines?
 Which varietals tend to get the highest ratings? Conversly, which varietals have low ratings?
 Which appelation tend to get he highest ratings? Conversly, which appellation have low ratings?
 Where are the most expensive wines from? Conversely the cheapest wines?
 
  
 Realtionships / Analyze
-Do higher rating counts mean higher avergae rating?
+Do higher rating counts mean higher average rating?
 Does price correlate with high ratings?
 Does price correlate with regions or appelation?
+Does year correlate with high ratings?
+Does year correlate with regions or appelation?
 
 Feature Engineering?
 red, white, or sparkling
@@ -41,6 +43,7 @@ Report:
 Which wines are the best bang for the buck?
 When considering a cheaper wine, which region and appelation should I get?
 When considering a cheaper wine, which varietals should I consider?
+Is there a bias in the reviews for American wines since the reviewers are in the US?
 
 Deep dive into California wines:
 Which CA wines have the highest ratings?
