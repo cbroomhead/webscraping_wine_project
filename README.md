@@ -52,6 +52,9 @@ Which CA wines have the highest ratings?
 How does year affect the ratings of the wine? Are there years to stay away from?
 How does price affect the ratings of the wine?
 
+Predictive:
+Target vector could be rating, rating_count and price. 
+
 
 
 ### Oldest Wine
