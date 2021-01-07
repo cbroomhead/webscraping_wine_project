@@ -37,10 +37,8 @@ Realtionships / Analyze
 Does year correlate with regions or appelation?
 Does price correlate with regions or appelation?
 
-Feature Engineering?
-red, white, or sparkling
 
-Report Wirite up:
+Report Write up:
 Which wines are the best bang for the buck according to the ratings?
 What are wines I should generally stay away from according to the ratings?
 When considering a cheaper wine, which region and appelation should I get?
@@ -48,12 +46,16 @@ When considering a cheaper wine, which varietals should I consider?
 -> There might be a bias in the data since there were a lot of California wines and most people who rated the wines were from within the US. 
 
 Deep dive into California wines:
-Which CA wines have the highest ratings?
-How does year affect the ratings of the wine? Are there years to stay away from?
-How does price affect the ratings of the wine?
+- Which CA wines have the highest ratings?
+- How does year affect the ratings of the wine? Are there years to stay away from?
+- How does price affect the ratings of the wine?
 
 Predictive:
 Target vector could be rating, rating_count and price. 
+
+Feature Engineering:
+red, white, or sparkling?
+import precipitation data to see if there is correlation with price or ratings
 
 
 
