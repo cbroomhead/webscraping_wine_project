@@ -1,3 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbroomhead/webscraping_wine_project.git/main)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cbroomhead/webscraping_wine_project.git/main
+
 # wine.com webscraping project 
 
 ## Included
